@@ -1,4 +1,5 @@
 # Predicting Job Postings: Real or Fake?
+![](poster.png)
 
 ## Highlights:
 - Our Random Forest classifier predicts fraudulent job postings with a 70.1% F1 score.
